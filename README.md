@@ -51,7 +51,7 @@ Para clonar e executar este aplicativo, você precisará do Git instalado em seu
 
 ```bash
 # Clonar este repositório
-$ git clone https://github.com/BBMiranda/AtividadeHTML.git.git
+$ git clone https://github.com/BBMiranda/AtividadeHTML.git
 # Entre no repositório
 $ cd AtividadeHTML
 # Vá para index.html
