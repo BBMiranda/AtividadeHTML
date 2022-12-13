@@ -1,6 +1,6 @@
 <h1 align="center">
    <a href="https://bbmiranda.github.io/AtividadeHTML/">
-	<img alt="Logo" src="Paginas/SoulCode.png" />
+	<img alt="Logo" src="image/SoulCode.png" />
 	</a>
     <br>
 </h1>
