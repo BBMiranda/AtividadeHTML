@@ -25,7 +25,7 @@
   <p>Desenvolvido durante o curso SalesForce da SoulCode.</p>
 
   <p>
-  Agradecimento para a André S Benther, André Luna, Elize Müller, Flávio Tobias, Thiago Campello pela parceria pós aula e longas horas de conversa e estudo juntos.  
+  Agradecimentos para a André S Benther, André Luna, Elize Müller, Flávio Tobias, Thiago Campello pela parceria pós aula e longas horas de conversa e estudo juntos.  
   </p>
 </h4>
 <p align="center">
