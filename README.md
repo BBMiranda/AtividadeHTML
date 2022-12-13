@@ -51,9 +51,9 @@ Para clonar e executar este aplicativo, você precisará do Git instalado em seu
 
 ```bash
 # Clonar este repositório
-$ git clone https://github.com/ThiagoCampello/SoulCode.git
+$ git clone https://github.com/BBMiranda/AtividadeHTML.git.git
 # Entre no repositório
-$ cd HTML2
+$ cd AtividadeHTML
 # Vá para index.html
 # Clique com o botão direito nele
 # Executar com o Live Server
